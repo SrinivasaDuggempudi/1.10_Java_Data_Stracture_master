@@ -19,9 +19,10 @@ Author : Srinivasa Duggempudi.
                The last element inserted is the first one to be deleted. Hence, it is called Last in First Out(LIFO) or First in Last Out(FILO) list,
                
    **Stack Operations**
-               **1.push():** Insert the data in the stack
-               **2.pop():**  Removes and returns the last inserted element from the stack.
-               **3.peek():** Returns the last inserted element without removing it.
+   
+        **1.push():** Insert the data in the stack.
+        **2.pop():**  Removes and returns the last inserted element from the stack.
+        **3.peek():** Returns the last inserted element without removing it.
 
 
 
