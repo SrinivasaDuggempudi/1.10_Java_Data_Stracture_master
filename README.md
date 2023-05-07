@@ -15,7 +15,8 @@ Author : Srinivasa Duggempudi.
 
 1. ### Custom Stack Implementation?
 
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
+    **Stack :** Stack is a linear data structure in which insertion and deletion are done at one end, called as top.
+               The last element inserted is the first one to be deleted. Hence, it is called Last in First Out(LIFO) or First in Last Out(FILO) list.
 
   **[⬆ Back to Top](#table-of-contents)**
 
