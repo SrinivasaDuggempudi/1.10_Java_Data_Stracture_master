@@ -17,6 +17,13 @@ Author : Srinivasa Duggempudi.
 
     **Stack :** Stack is a linear data structure in which insertion and deletion are done at one end, called as top.
                The last element inserted is the first one to be deleted. Hence, it is called Last in First Out(LIFO) or First in Last Out(FILO) list.
+               
+               **Stack Operations**
+               **1.push():** Insert the data in the stack
+               **2.pop(): ** Removes and returns the last inserted element from the stack.
+               **3.peek(): ** Returns the last inserted element without removing it.
+
+
 
   **[⬆ Back to Top](#table-of-contents)**
 
