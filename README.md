@@ -5,7 +5,7 @@ Author : Srinivasa Duggempudi.
 
 | No. | Questions |
 |---- | ---------
-|1 | [What is Angular Framework?](#what-is-angular-framework)|
+|1 | [Custom Stack Implementation?](#custom-stack-implementation)|
 |2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
 |3 | [What is TypeScript?](#what-is-typescript)|
 |4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
@@ -13,7 +13,7 @@ Author : Srinivasa Duggempudi.
 |6 | [What are directives?](#what-are-directives)|
 
 
-1. ### What is Angular Framework?
+1. ### Custom Stack Implementation?
 
     Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
 
