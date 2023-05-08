@@ -79,6 +79,62 @@ Author : Srinivasa Duggempudi.
 	}
     
     ```
+    **COMPLETE CODE :**
+    ```
+      package datastractures.stack;
+
+public class Stack {
+	int top ;
+	int arr[];
+	int capacity;
+	
+	public Stack(int size) {
+		this.top = -1;
+		this.arr = new int[size];
+		this.capacity = size;
+	}
+	
+	public boolean isFull() {
+		return top == capacity-1;
+	}
+	
+	public void push(int x) {
+		
+		if(!isFull()) {
+			top = top +1;
+			arr[top] =x;
+		}else {
+			
+			System.out.println("Stack is Full");
+		}
+	}
+	
+	public int pop() {
+		
+		int element = arr[top];
+		top = top-1;
+		return element ;
+
+	}
+	
+	public int peek() {
+		if(isEmpty()) {
+			System.out.println("Stack is Empty");
+		}
+		return arr[top];
+	}
+
+	public boolean isEmpty() {
+		return top==-1;
+	}
+	
+	public int size() {
+	return top+1;
+	}
+}
+      
+    ```
+    
       
       
       
