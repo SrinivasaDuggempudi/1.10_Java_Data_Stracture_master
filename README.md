@@ -56,7 +56,23 @@ Author : Srinivasa Duggempudi.
 		}
 	}
     ```
-	
+    
+      **POP :**  Take the top index element of array to return and reduce the top index value.
+      
+      ```
+        public int pop() {
+		
+		int element = arr[top];
+		top = top-1;
+		return element ;
+
+	}
+      ```
+      
+      
+      
+                
+
      
       
       
