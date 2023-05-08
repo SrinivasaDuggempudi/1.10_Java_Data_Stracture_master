@@ -44,9 +44,8 @@ Author : Srinivasa Duggempudi.
      ```
      **push:**  here before adding the element to array increase the array index(top) and assign the value. 
      
-         ```
-	 
-	 public void push(int x) {
+    ```
+      public void push(int x) {
 		
 		if(!isFull()) {
 			top = top +1;
@@ -54,10 +53,10 @@ Author : Srinivasa Duggempudi.
 		}else {
 			
 			System.out.println("Stack is Full");
-		}	
+		}
 	}
-	 
-	  ```
+    ```
+	
      
       
       
