@@ -29,8 +29,8 @@ Author : Srinivasa Duggempudi.
     **Implementation**
      Take the three variable like top, array and capacity.
      
-     '''
-  public class Stack {
+     ```
+       public class Stack {
 	int top ;
 	int arr[];
 	int capacity;
@@ -40,7 +40,10 @@ Author : Srinivasa Duggempudi.
 		this.arr = new int[size];
 		this.capacity = size;
 	}
-     '''
+     
+     ```
+  
+     
       
       
 
