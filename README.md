@@ -25,6 +25,24 @@ Author : Srinivasa Duggempudi.
       **2.pop():**  Removes and returns the last inserted element from the stack.
       
       **3.peek():** Returns the last inserted element without removing it.
+    
+    **Implementation**
+     Take the three variable like top, array and capacity.
+     
+     '''
+  public class Stack {
+	int top ;
+	int arr[];
+	int capacity;
+	
+	public Stack(int size) {
+		this.top = -1;
+		this.arr = new int[size];
+		this.capacity = size;
+	}
+     '''
+      
+      
 
 
 
