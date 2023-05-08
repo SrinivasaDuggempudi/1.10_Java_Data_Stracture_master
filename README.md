@@ -68,6 +68,17 @@ Author : Srinivasa Duggempudi.
 
 	}
       ```
+    **PEEK:**  Pick and return the top element of Array,
+    
+    ```
+      public int peek() {
+		if(isEmpty()) {
+			System.out.println("Stack is Empty");
+		}
+		return arr[top];
+	}
+    
+    ```
       
       
       
