@@ -81,10 +81,8 @@ Author : Srinivasa Duggempudi.
     ```
     **COMPLETE CODE :**
    
-   ```
-          
-	  package datastractures.stack;
-
+    ```
+     
        public class Stack {
 	int top ;
 	int arr[];
@@ -110,8 +108,8 @@ Author : Srinivasa Duggempudi.
 			System.out.println("Stack is Full");
 		}
 	}
-	
-	public int pop() {
+              
+	      public int pop() {
 		
 		int element = arr[top];
 		top = top-1;
@@ -128,14 +126,17 @@ Author : Srinivasa Duggempudi.
 	public boolean isEmpty() {
 		return top==-1;
 	}
-	
 	public int size() {
 		return top+1;
 	}
-      }
+          }
 
+   
+    ```
+          
+	 
       
- ```
+  
     
       
       
