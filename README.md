@@ -80,10 +80,12 @@ Author : Srinivasa Duggempudi.
     
     ```
     **COMPLETE CODE :**
-    ```
-      package datastractures.stack;
+   
+   ```
+          
+	  package datastractures.stack;
 
-public class Stack {
+       public class Stack {
 	int top ;
 	int arr[];
 	int capacity;
@@ -114,7 +116,6 @@ public class Stack {
 		int element = arr[top];
 		top = top-1;
 		return element ;
-
 	}
 	
 	public int peek() {
@@ -129,11 +130,12 @@ public class Stack {
 	}
 	
 	public int size() {
-	return top+1;
+		return top+1;
 	}
-}
+      }
+
       
-    ```
+ ```
     
       
       
