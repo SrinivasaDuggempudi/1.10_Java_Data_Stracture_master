@@ -5,7 +5,6 @@ Author : Srinivasa Duggempudi.
 
 | No. | Questions |
 |---- | ---------
-####                         Stacks
 |1 | [Custom Stack Implementation?](#custom-stack-implementation)|
 |2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
 |3 | [What is TypeScript?](#what-is-typescript)|
