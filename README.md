@@ -2,7 +2,7 @@
 Author : Srinivasa Duggempudi.
 
 ### Table of Contents
-
+### STACK                         
 | No. | Questions |
 |---- | ---------
 |1 | [Custom Stack Implementation?](#custom-stack-implementation)|
